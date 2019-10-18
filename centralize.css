@@ -1,10 +1,1 @@
-.centralize {
-  display: table;
-  height: 100%; width: 100%;
-}
-
-.centralize-child {
-  display: table-cell;
-  height: 100%; width: 100%;
-  vertical-align: middle;
-}
+body,html{margin:0;padding:0;height:100%;width:100}.centralize{display:table;height:100%;width:100%;text-align:center}.centralize-child{display:table-cell;height:100%;width:100%;vertical-align:middle}
