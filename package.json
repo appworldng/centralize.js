@@ -1,0 +1,30 @@
+{
+    "name": "centralize.js",
+    "version": "1.0.0",
+    "description": "A simple JavaScript library to help you centralize content in the center of your device's screen or HTML element/container.",
+    "author": "Chigozie Orunta <chigozieorunta@yahoo.com> (https://github.com/chigozieorunta/centralize.js)",
+    "license": "MIT",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git://github.com/chigozieorunta/centralize.js.git"
+    },
+    "keywords": [
+        "chigozieorunta",
+        "npm",
+        "package",
+        "centralize",
+        "css",
+        "javascript",
+        "center",
+        "screen",
+        "chigozie",
+        "orunta"
+    ],
+    "files": [
+        "centralize.css",
+        "centralize.js"
+    ]
+}
