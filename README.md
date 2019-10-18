@@ -31,8 +31,8 @@ The **centralize** class applies a 100% width & height to its parent container a
 <!DOCTYPE html>
 <html>
 <head>
-  <link href="centralize.css" rel="stylesheet" type="text/css"/>
-  <script src="centralize.js" type="text/javascript"></script>
+  <link href="https://cdn.jsdelivr.net/gh/chigozieorunta/centralize.js/centralize.css" rel="stylesheet" type="text/css"/>
+  <script src="https://cdn.jsdelivr.net/gh/chigozieorunta/centralize.js/centralize.js" type="text/javascript"></script>
 </head>
 
 <body>
