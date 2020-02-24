@@ -26,7 +26,7 @@ The CDN is updated after the release is made public. Always, check the GitHub pa
 The "**centralize**" class comes in handy if you ever need to centralize content in the center of your device's screen or HTML element/container.
 
 ### How To Use
-The **centralize** class applies a 100% width & height to its parent container and centralizes the content at the center of the screen. Here's a sample below...
+The **centralize** class applies a 100% width & height to its parent container and centralizes the content at the center of the screen. Here's a sample below.
 ```
 <!DOCTYPE html>
 <html>
