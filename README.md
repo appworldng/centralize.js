@@ -4,7 +4,7 @@ A simple JavaScript library to help you centralize content in the center of your
 ## NPM
 You can install directly via NPM to your project folder.
 ```
-npm install centralize-js
+npm install html-centralize-js
 ```
 
 ## CDN
