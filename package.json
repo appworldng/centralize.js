@@ -1,5 +1,5 @@
 {
-    "name": "centralize.js",
+    "name": "html-centralize-js",
     "version": "1.0.0",
     "description": "A simple JavaScript library to help you centralize content in the center of your device's screen or HTML element/container.",
     "author": "Chigozie Orunta <chigozieorunta@yahoo.com> (https://github.com/chigozieorunta/centralize.js)",
